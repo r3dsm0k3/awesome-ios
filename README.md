@@ -1,3 +1,5 @@
+:ghost:
+
 # Awesome iOS
 
 A curated list of awesome iOS frameworks, libraries, tutorials, plugins Xcode, components and much more. 
@@ -163,8 +165,8 @@ The list is divided into categories such as Frameworks, Components, Testing and 
  * [ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) - A simple side menu for iOS 7/8 written in Swift.
  * [MDCSwipeToChoose](https://github.com/modocache/MDCSwipeToChoose) - Swipe to "like" or "dislike" any view, just like Tinder.app. Build a flashcard app, a photo viewer, and more, in minutes, not hours!
  * [ParallaxTableViewHeader](https://github.com/Vinodh-G/ParallaxTableViewHeader) - Parallax scrolling effect on UITableView header view when a tableView is scrolled
- * [JLToast](https://github.com/devxoul/JLToast) - Toast for iOS with very simple interface. Written in Swift. :large_orange_diamond:
- * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Live animated Alert View for iOS written in Swift. :large_orange_diamond:
+ * [JLToast](https://github.com/devxoul/JLToast) - Toast for iOS with very simple interface. Written in Swift. :large_orange_diamond: :ghost:
+ * [SweetAlert](https://github.com/codestergit/SweetAlert-iOS) - Live animated Alert View for iOS written in Swift. :small_orange_diamond:
 
 ### WebSocket
  * [Socket Rocket](https://github.com/square/SocketRocket) - A conforming Objective-C WebSocket client library.
