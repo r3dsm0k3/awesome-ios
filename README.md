@@ -2329,6 +2329,7 @@ Most of these are paid services, some have free tiers.
 * [Toolbar](https://github.com/1amageek/Toolbar) - Awesome autolayout Toolbar.
 * [IHKeyboardAvoiding](https://github.com/IdleHandsApps/IHKeyboardAvoiding) - A drop-in universal solution for keeping any UIView visible when the keyboard is being shown - no more UIScrollViews!
 * [NumPad](https://github.com/efremidze/NumPad) - Number Pad (inspired by Square's design).
+* [KeyboardLayoutGuide](https://github.com/freshOS/KeyboardLayoutGuide) - A library to add autolayout constraints to views based on the the Keyboard position.
 
 ### Label
 * [LTMorphingLabel](https://github.com/lexrus/LTMorphingLabel) - Graceful morphing effects for UILabel written in Swift.
